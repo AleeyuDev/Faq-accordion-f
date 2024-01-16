@@ -75,7 +75,7 @@ button {
   background: right url(/assets/images/icon-minus.svg) no-repeat;
   padding-block: 1rem;
   width: 100%;
-  cursor: url(/assets/images/handcursor_114633.png), pointer;
+  cursor: pointer;
   border: none;
   padding-right: 4.45rem;
   text-align: left;
