@@ -1,6 +1,7 @@
 @font-face {
   font-family: "Work Sans";
   src: url(/assets/fonts/WorkSans-VariableFont_wght.ttf);
+  font-display: block;
 }
 
 /* reset */
